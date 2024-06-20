@@ -1,6 +1,6 @@
 package finalkeyword;
 
-public class FinalExampleChild extends FinalExample1{
+public class FinalExampleChild extends FinalExample1{ //final class can not extend
 public  void display() {
 		
 	}
