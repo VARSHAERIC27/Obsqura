@@ -6,7 +6,7 @@ public class Collection2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("non generic collection");
+		System.out.println(" generic collection");
 		ArrayList  <String> l2 = new ArrayList<String>();
 		l2.add("green");
 		l2.add("red");

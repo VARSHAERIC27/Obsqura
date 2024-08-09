@@ -21,7 +21,7 @@ System.out.println(l1);
 
 
 
-//non generic 
+//non generic  collection
 ArrayList l2 = new ArrayList();
 l2.add("red");
 l2.add("orange");
